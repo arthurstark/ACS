@@ -1,0 +1,18 @@
+{
+  "name": "astark/acs",
+  "require-dev": {
+    "phpunit/phpunit": "^7.1"
+  },
+  "authors": [
+    {
+      "name": "Arthur Stark",
+      "email": "ArthurDanielStark@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ACS\\": "src/"
+    }
+  },
+  "require": {}
+}
