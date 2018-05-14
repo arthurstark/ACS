@@ -2,7 +2,8 @@ This project was built to showcase my OOP skills.
 
 ## Requires:
 
-PHP
+- PHP
+- composer
 
 
 ## Process & Assumptions:
@@ -19,5 +20,6 @@ Most cases will require searching the entire queue unless a large passenger is f
 ## To run locally:
 ```
 cd acs
+composer install
 ./vendor/bin/phpunit tests
 ```
